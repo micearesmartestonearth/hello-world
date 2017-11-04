@@ -1,3 +1,3 @@
 # hello-world
 An introductory repository.
-Just another student.
+By just another student.
